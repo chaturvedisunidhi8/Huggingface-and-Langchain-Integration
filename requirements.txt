@@ -1,0 +1,8 @@
+huggingface_hub
+langchain_huggingface
+dotenv
+ipykernel
+streamlit
+langchain
+langchain_community
+
