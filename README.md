@@ -4,7 +4,7 @@ HuggingFace and LangChain Integration
 This project demonstrates how to seamlessly integrate Hugging Face Transformers with LangChain, combining the power of state-of-the-art NLP models and intelligent chaining capabilities to build advanced AI-driven applications.
 
  Key Features:
-✨ Use Hugging Face models (like Llama, Falcon, T5, GPT-NeoX) directly within LangChain’s framework.
+ Use Hugging Face models (like Llama, Falcon, T5, GPT-NeoX) directly within LangChain’s framework.
 🔗 Build custom LLM chains for summarization, translation, Q&A, or conversational agents.
 🧩 Support for prompt templating, memory management, and tool usage.
 ⚙️ Easy setup with API or local inference options.
