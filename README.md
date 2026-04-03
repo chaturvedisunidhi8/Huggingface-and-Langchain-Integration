@@ -20,7 +20,7 @@ HuggingFace and LangChain Integration
 
  Text summarization tools
 
-🛠️ Tech Stack:
+ Tech Stack:
 
 🧠 LangChain – for chain management and orchestration
 
