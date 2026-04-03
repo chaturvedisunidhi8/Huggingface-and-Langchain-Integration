@@ -5,7 +5,7 @@ This project demonstrates how to seamlessly integrate Hugging Face Transformers 
 
  Key Features:
  Use Hugging Face models (like Llama, Falcon, T5, GPT-NeoX) directly within LangChain’s framework.
-🔗 Build custom LLM chains for summarization, translation, Q&A, or conversational agents.
+ Build custom LLM chains for summarization, translation, Q&A, or conversational agents.
 🧩 Support for prompt templating, memory management, and tool usage.
 ⚙️ Easy setup with API or local inference options.
 📚 Extendable for RAG (Retrieval-Augmented Generation) and document-based chatbots.
