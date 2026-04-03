@@ -16,7 +16,7 @@ HuggingFace and LangChain Integration
 
  Document or PDF Q&A bots
 
-🌍 Language translation assistants
+ Language translation assistants
 
 🧮 Text summarization tools
 
