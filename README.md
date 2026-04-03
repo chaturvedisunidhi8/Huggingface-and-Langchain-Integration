@@ -22,7 +22,7 @@ HuggingFace and LangChain Integration
 
  Tech Stack:
 
-🧠 LangChain – for chain management and orchestration
+ LangChain – for chain management and orchestration
 
 🤗 Hugging Face Transformers / Inference API – for model execution
 
