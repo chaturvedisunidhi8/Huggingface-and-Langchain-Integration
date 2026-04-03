@@ -14,7 +14,7 @@ HuggingFace and LangChain Integration
 
  Chatbots with contextual memory
 
- Document or PDF Q&A bots
+ Document or PDF Q&A bots 
 
  Language translation assistants
 
