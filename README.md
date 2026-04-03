@@ -12,7 +12,7 @@ HuggingFace and LangChain Integration
 
  Example Use Cases:
 
-🤖 Chatbots with contextual memory
+ Chatbots with contextual memory
 
 📄 Document or PDF Q&A bots
 
