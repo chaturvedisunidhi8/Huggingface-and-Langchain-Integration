@@ -30,5 +30,5 @@ HuggingFace and LangChain Integration
 
  Streamlit / FastAPI – for UI and API deployment
 
-🌟 Why This Integration Matters:
+ Why This Integration Matters:
 Bringing Hugging Face’s model diversity and LangChain’s composability together makes it easier to create modular, flexible, and production-ready AI systems. Perfect for developers, researchers, and innovators exploring next-gen language applications. 💫
