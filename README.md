@@ -8,9 +8,9 @@ HuggingFace and LangChain Integration
  Build custom LLM chains for summarization, translation, Q&A, or conversational agents.
  Support for prompt templating, memory management, and tool usage.
  Easy setup with API or local inference options.
-📚 Extendable for RAG (Retrieval-Augmented Generation) and document-based chatbots.
+ Extendable for RAG (Retrieval-Augmented Generation) and document-based chatbots.
 
-💡 Example Use Cases:
+ Example Use Cases:
 
 🤖 Chatbots with contextual memory
 
