@@ -18,7 +18,7 @@ HuggingFace and LangChain Integration
 
  Language translation assistants
 
-🧮 Text summarization tools
+ Text summarization tools
 
 🛠️ Tech Stack:
 
