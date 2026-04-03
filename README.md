@@ -24,7 +24,7 @@ HuggingFace and LangChain Integration
 
  LangChain – for chain management and orchestration
 
-🤗 Hugging Face Transformers / Inference API – for model execution
+ Hugging Face Transformers / Inference API – for model execution
 
 🐍 Python – implementation
 
