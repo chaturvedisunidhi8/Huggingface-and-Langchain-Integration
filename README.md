@@ -1,5 +1,5 @@
 HuggingFace and LangChain Integration 
-
+ 
  Project Description: 
  This project demonstrates how to seamlessly integrate Hugging Face Transformers with LangChain, combining the power of state-of-the-art   NLP models and intelligent chaining capabilities to build advanced AI-driven applications.
 
