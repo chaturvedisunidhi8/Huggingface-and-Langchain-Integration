@@ -26,7 +26,7 @@ HuggingFace and LangChain Integration
 
  Hugging Face Transformers / Inference API – for model execution
 
-🐍 Python – implementation
+ Python – implementation
 
 🧩 Streamlit / FastAPI – for UI and API deployment
 
